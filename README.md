@@ -9,6 +9,11 @@
 2. [Project Description](#Project-Description)
 3. [Downloading Dataset](#Downloading-Dataset)
 4. [How to run](#How-to-run)
+    <ul>
+        <li>Installing Requirements<\li>
+        <li>Train from scratch<\li>
+        <li>Validate the presaved model<\li>
+    <\ul>
 5. [Acknowledgement](#Acknowledgement)
 
 # Introduction
@@ -77,5 +82,5 @@ with open(model_path, "rb") as file:
 4. Using the methods of the scikit learn or pytorch (depending on the Decision tree or Neural Network) you can test the dataset and interpret the metrics.
 
 
-# Achnowledgement
+# Acknowledgement
 We would like to thank Dr. Arash Azarfar for the highly effective course instruction, as well as to all of the Teaching Assistants who provided guidance and support throughout the project.
