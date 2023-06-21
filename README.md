@@ -11,8 +11,8 @@
 4. [How to run](#How-to-run)
    - [Installing Requirements](#Installing-Requirements)
    - [How to train/validate model](#How-to-train/validate-model)
-    * [Train from scratch](#Train-from-scratch)
-    * [Validate the presaved Model](#Validate-the-presaved-Model)
+      - [Train from scratch](#Train-from-scratch)
+      - [Validate the presaved Model](#Validate-the-presaved-Model)
 5. [Acknowledgement](#Acknowledgement)
 
 # Introduction
