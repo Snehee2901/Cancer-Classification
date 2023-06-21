@@ -1,5 +1,5 @@
 # AI-Project
-AI summer project
+## COMP6721-Summer2023-Group20
 
 *To download the project we recommend using [this](https://github.com/Snehee2901/AI-Project/archive/refs/heads/main.zip) link. This downloads the latest version of the repository.* 
 
