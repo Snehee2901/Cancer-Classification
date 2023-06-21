@@ -10,10 +10,10 @@
 3. [Downloading Dataset](#Downloading-Dataset)
 4. [How to run](#How-to-run)
     <ul>
-        <li>Installing Requirements<\li>
-        <li>Train from scratch<\li>
-        <li>Validate the presaved model<\li>
-    <\ul>
+        <li>[Installing Requirements](#Installing-Requirements)</li>
+        <li>[Train from scratch](#Train-from-scratch)</li>
+        <li>[Validate the presaved Model](#Validate-the-presaved-Model)</li>
+    </ul>
 5. [Acknowledgement](#Acknowledgement)
 
 # Introduction
