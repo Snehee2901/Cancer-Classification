@@ -9,11 +9,10 @@
 2. [Project Description](#Project-Description)
 3. [Downloading Dataset](#Downloading-Dataset)
 4. [How to run](#How-to-run)
-    <ul>
-        <li>[Installing Requirements](#Installing-Requirements)</li>
-        <li>[Train from scratch](#Train-from-scratch)</li>
-        <li>[Validate the presaved Model](#Validate-the-presaved-Model)</li>
-    </ul>
+   - [Installing Requirements](#Installing-Requirements)
+   - [How to train/validate model](#How-to-train/validate-model)
+    - [Train from scratch](#Train-from-scratch)
+    - [Validate the presaved Model](#Validate-the-presaved-Model)
 5. [Acknowledgement](#Acknowledgement)
 
 # Introduction
